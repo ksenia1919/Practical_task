@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\liton\\Desktop\\Тестовое (back)\\_ShapeAreaCalculator\\_ShapeAreaCalculator\\_ShapeAreaCalculator.csproj": {}
+    "C:\\Users\\liton\\Desktop\\Practical_task\\_ShapeAreaCalculator\\_ShapeAreaCalculator\\_ShapeAreaCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\liton\\Desktop\\Тестовое (back)\\_ShapeAreaCalculator\\_ShapeAreaCalculator\\_ShapeAreaCalculator.csproj": {
+    "C:\\Users\\liton\\Desktop\\Practical_task\\_ShapeAreaCalculator\\_ShapeAreaCalculator\\_ShapeAreaCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\liton\\Desktop\\Тестовое (back)\\_ShapeAreaCalculator\\_ShapeAreaCalculator\\_ShapeAreaCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\liton\\Desktop\\Practical_task\\_ShapeAreaCalculator\\_ShapeAreaCalculator\\_ShapeAreaCalculator.csproj",
         "projectName": "_ShapeAreaCalculator",
-        "projectPath": "C:\\Users\\liton\\Desktop\\Тестовое (back)\\_ShapeAreaCalculator\\_ShapeAreaCalculator\\_ShapeAreaCalculator.csproj",
+        "projectPath": "C:\\Users\\liton\\Desktop\\Practical_task\\_ShapeAreaCalculator\\_ShapeAreaCalculator\\_ShapeAreaCalculator.csproj",
         "packagesPath": "C:\\Users\\liton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\liton\\Desktop\\Тестовое (back)\\_ShapeAreaCalculator\\_ShapeAreaCalculator\\obj\\",
+        "outputPath": "C:\\Users\\liton\\Desktop\\Practical_task\\_ShapeAreaCalculator\\_ShapeAreaCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\liton\\AppData\\Roaming\\NuGet\\NuGet.Config",

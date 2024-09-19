@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OdhFcID8jeaqWyYfNTLajFT0q1MFMXdHO+ecMNIoXqbPy0NLQ5iZ1doqseMCoDMP38ncbgRQDjacrgdFx8meAw==",
+  "dgSpecHash": "0MwY20Csics72aPXqyK4saNgM8CDNGV8DQu26gndSC8PWuQ0zvAK44raUs6ysuwWwTuxZs7TGttTi2/VDOOvgA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\liton\\Desktop\\Тестовое (back)\\_ShapeAreaCalculator\\UnitTests\\UnitTests.csproj",
+  "projectFilePath": "C:\\Users\\liton\\Desktop\\Practical_task\\_ShapeAreaCalculator\\UnitTests\\UnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\liton\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\liton\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

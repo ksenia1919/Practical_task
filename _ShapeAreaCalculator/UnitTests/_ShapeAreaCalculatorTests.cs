@@ -1,4 +1,4 @@
-using _ShapeAreaCalculator;
+п»їusing _ShapeAreaCalculator;
 
 namespace UnitTests
 {
@@ -15,7 +15,7 @@ namespace UnitTests
             double area = ShapeAreaCalculator.CalculateArea(circle);
 
             // Assert
-            // Проверяем, что вычисленная площадь круга с радиусом 5 равна ожидаемому значению (PI 5^2)
+            // РџСЂРѕРІРµСЂСЏРµРј, С‡С‚Рѕ РІС‹С‡РёСЃР»РµРЅРЅР°СЏ РїР»РѕС‰Р°РґСЊ РєСЂСѓРіР° СЃ СЂР°РґРёСѓСЃРѕРј 5 СЂР°РІРЅР° РѕР¶РёРґР°РµРјРѕРјСѓ Р·РЅР°С‡РµРЅРёСЋ (PI 5^2)
             Assert.AreEqual(Math.PI * Math.Pow(radius, 2), area);
         }
 
@@ -32,7 +32,7 @@ namespace UnitTests
             double area = ShapeAreaCalculator.CalculateArea(triangle);
 
             // Assert
-            // Проверяем, что вычисленная площадь треугольника со сторонами 3, 4, 5 равна 6
+            // РџСЂРѕРІРµСЂСЏРµРј, С‡С‚Рѕ РІС‹С‡РёСЃР»РµРЅРЅР°СЏ РїР»РѕС‰Р°РґСЊ С‚СЂРµСѓРіРѕР»СЊРЅРёРєР° СЃРѕ СЃС‚РѕСЂРѕРЅР°РјРё 3, 4, 5 СЂР°РІРЅР° 6
             Assert.AreEqual(6, area);
         }
 
@@ -44,11 +44,11 @@ namespace UnitTests
             double sideB = 2;
             double sideC = 5;
 
-            // Создаем экземпляр треугольника
+            // РЎРѕР·РґР°РµРј СЌРєР·РµРјРїР»СЏСЂ С‚СЂРµСѓРіРѕР»СЊРЅРёРєР°
             var triangle = new Triangle(sideA, sideB, sideC);
 
             // Act & Assert
-            // Проверяем, что при попытке рассчитать площадь выбрасывается исключение ArgumentException
+            // РџСЂРѕРІРµСЂСЏРµРј, С‡С‚Рѕ РїСЂРё РїРѕРїС‹С‚РєРµ СЂР°СЃСЃС‡РёС‚Р°С‚СЊ РїР»РѕС‰Р°РґСЊ РІС‹Р±СЂР°СЃС‹РІР°РµС‚СЃСЏ РёСЃРєР»СЋС‡РµРЅРёРµ ArgumentException
             Assert.Throws<ArgumentException>(() => triangle.CalculateArea());
         }
 
@@ -65,7 +65,7 @@ namespace UnitTests
             bool isRightTriangle = triangle.IsRightTriangle();
 
             // Assert
-            // Проверяем, что метод isRightTriangle() возвращает true для прямоугольного треугольника со сторонами 3, 4, 5
+            // РџСЂРѕРІРµСЂСЏРµРј, С‡С‚Рѕ РјРµС‚РѕРґ isRightTriangle() РІРѕР·РІСЂР°С‰Р°РµС‚ true РґР»СЏ РїСЂСЏРјРѕСѓРіРѕР»СЊРЅРѕРіРѕ С‚СЂРµСѓРіРѕР»СЊРЅРёРєР° СЃРѕ СЃС‚РѕСЂРѕРЅР°РјРё 3, 4, 5
             Assert.IsTrue(isRightTriangle);
         }
 
@@ -82,7 +82,7 @@ namespace UnitTests
             bool isRightTriangle = triangle.IsRightTriangle();
 
             // Assert
-            // Проверяем, что метод IsRightTriangle() возвращает false для треугольника, который не является прямоугольным
+            // РџСЂРѕРІРµСЂСЏРµРј, С‡С‚Рѕ РјРµС‚РѕРґ IsRightTriangle() РІРѕР·РІСЂР°С‰Р°РµС‚ false РґР»СЏ С‚СЂРµСѓРіРѕР»СЊРЅРёРєР°, РєРѕС‚РѕСЂС‹Р№ РЅРµ СЏРІР»СЏРµС‚СЃСЏ РїСЂСЏРјРѕСѓРіРѕР»СЊРЅС‹Рј
             Assert.IsFalse(isRightTriangle);
         }
     }
