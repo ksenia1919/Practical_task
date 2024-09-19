@@ -1,0 +1,11 @@
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\bin\Debug\net8.0\_ShapeAreaCalculator.deps.json
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\bin\Debug\net8.0\_ShapeAreaCalculator.dll
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\bin\Debug\net8.0\_ShapeAreaCalculator.pdb
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\obj\Debug\net8.0\_ShapeAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\obj\Debug\net8.0\_ShapeAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\obj\Debug\net8.0\_ShapeAreaCalculator.AssemblyInfo.cs
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\obj\Debug\net8.0\_ShapeAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\obj\Debug\net8.0\_ShapeAreaCalculator.dll
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\obj\Debug\net8.0\refint\_ShapeAreaCalculator.dll
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\obj\Debug\net8.0\_ShapeAreaCalculator.pdb
+C:\Users\liton\Desktop\Тестовое (back)\_ShapeAreaCalculator\_ShapeAreaCalculator\obj\Debug\net8.0\ref\_ShapeAreaCalculator.dll
